@@ -1,4 +1,4 @@
-//教材補手本に作成
+//教材を手本に作成
 const result = (num) =>{
  console.log(num**2);
  }
